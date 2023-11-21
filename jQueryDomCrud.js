@@ -13,3 +13,8 @@
 // Create a listener on the "Buy Now!" link that responds to a click event.
 // When clicked, the the "Buy Now!" link should be removed
 // and replaced with text that says "Added to cart"
+$(document).ready(function(){
+    //all of your code in here
+    //this uses jQuery, but there is a plain
+    //Javaascript way to do this as well
+})
